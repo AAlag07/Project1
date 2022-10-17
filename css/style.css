@@ -74,9 +74,8 @@ nav a:hover::before {
 ul.a {
 		border-left: 5px solid purple;
 		list-style-type: none;
-		padding: 20 0 px;
+		padding: 20px;
 		display: inline-block;
-		text-color: #e25098;
 }
 
 img {
@@ -147,7 +146,7 @@ p.solid {
 		background: #AC8181;
 		padding: 15px;
 		width: auto;
-		height: 150 px;
+		height: 100 px;
 }
 h3 {
 		color: #536895;
